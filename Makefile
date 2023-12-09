@@ -12,7 +12,7 @@ format:
 lint:
 	cargo clippy --quiet
 
-test:
+testp:
 	cargo test --quiet
 
 run:
